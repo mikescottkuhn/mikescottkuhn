@@ -1,8 +1,8 @@
 # Michael Scott Kuhn
 
-Solutions Engineer focused on workflow-driven systems, CRM platforms, and automation.
+Solutions Engineer focused on CRM, workflow systems, and automation.
 
-I design and demonstrate how business processes translate into real system behavior.
+I lead technical discovery, design workflow-driven solutions, and demonstrate how business processes translate into real system behavior.
 
 ## Featured Project
 
@@ -17,10 +17,10 @@ A web app that simulates:
 
 ## Focus Areas
 
-- Workflow automation
-- System design
-- Data flow and integrations
-- Pre-sales solution engineering
+- Workflow automation and system design  
+- CRM platforms and data modeling  
+- Technical discovery and solution alignment  
+- Pre-sales evaluation and decision support  
 
 ## Contact
 
