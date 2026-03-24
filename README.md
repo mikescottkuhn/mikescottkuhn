@@ -2,7 +2,7 @@
 
 Solutions Engineer focused on CRM and workflow platforms.
 
-I lead discovery, shape solution strategy, and build tailored demos that show how business processes, data flow, and system behavior align to real operating needs.
+I lead technical discovery, shape solution strategy, and build workflow-driven demos that help teams evaluate platform fit, clarify system behavior, and make confident solution decisions.
 
 ## Featured Project
 
@@ -13,7 +13,7 @@ A web app that simulates:
 - rule-based automation
 - activity tracking
 
-It reflects the kind of workflow logic, routing behavior, and evaluation clarity that matter in CRM and SaaS platform decisions.
+It reflects the workflow logic, routing behavior, and system visibility that support real CRM and SaaS evaluations.
 
 👉 https://github.com/mikescottkuhn/crm-workflow-simulator
 
@@ -21,8 +21,12 @@ It reflects the kind of workflow logic, routing behavior, and evaluation clarity
 
 - Technical discovery and workflow mapping
 - CRM and SaaS solution design
-- Demo environments and evaluation flows
+- Demo environments and evaluation support
 - Data flow, integrations, and user process alignment
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/michaelskuhn- Data flow, integrations, and user process alignment
 
 ## Contact
 
