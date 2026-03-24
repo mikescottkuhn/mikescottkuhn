@@ -1,16 +1,27 @@
-## Hi there 👋
+# Michael Scott Kuhn
 
-<!--
-**mikescottkuhn/mikescottkuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solutions Engineer focused on workflow-driven systems, CRM platforms, and automation.
 
-Here are some ideas to get you started:
+I design and demonstrate how business processes translate into real system behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### CRM Workflow Simulator
+A web app that simulates:
+- lead intake
+- pipeline movement
+- rule-based automation
+- activity tracking
+
+👉 https://github.com/mikescottkuhn/crm-workflow-simulator
+
+## Focus Areas
+
+- Workflow automation
+- System design
+- Data flow and integrations
+- Pre-sales solution engineering
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/michaelskuhn
