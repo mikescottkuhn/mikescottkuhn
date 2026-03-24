@@ -1,8 +1,8 @@
 # Michael Scott Kuhn
 
-Solutions Engineer focused on CRM, workflow systems, and automation.
+Solutions Engineer focused on CRM and workflow platforms.
 
-I lead technical discovery, design workflow-driven solutions, and demonstrate how business processes translate into real system behavior.
+I lead discovery, shape solution strategy, and build tailored demos that show how business processes, data flow, and system behavior align to real operating needs.
 
 ## Featured Project
 
@@ -13,14 +13,16 @@ A web app that simulates:
 - rule-based automation
 - activity tracking
 
+It reflects the kind of workflow logic, routing behavior, and evaluation clarity that matter in CRM and SaaS platform decisions.
+
 👉 https://github.com/mikescottkuhn/crm-workflow-simulator
 
 ## Focus Areas
 
-- Workflow automation and system design  
-- CRM platforms and data modeling  
-- Technical discovery and solution alignment  
-- Pre-sales evaluation and decision support  
+- Technical discovery and workflow mapping
+- CRM and SaaS solution design
+- Demo environments and evaluation flows
+- Data flow, integrations, and user process alignment
 
 ## Contact
 
